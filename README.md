@@ -1,3 +1,3 @@
 # PHP-DynamicSite
 
-![Screenshot](home.jpg)
+![Screenshot](home.png)
